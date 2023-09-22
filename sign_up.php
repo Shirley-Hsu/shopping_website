@@ -409,7 +409,7 @@
             document.body.className = c;
         })()
     </script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/wp-ultimo//inc/setup/js/jquery.blockUI.js?ver=1.10.13' id='jquery-blockui-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/wp-ultimo//inc/setup/js/jquery.blockUI.js?ver=1.10.13' id='jquery-blockui-js'></script> -->
     <script type='text/javascript' id='wc-add-to-cart-js-extra'>
         /* <![CDATA[ */
         var wc_add_to_cart_params = {
@@ -515,7 +515,7 @@
         /* ]]> */
     </script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.6.2' id='wc-cart-fragments-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.0' id='oceanwp-woo-quick-view-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.0' id='oceanwp-woo-quick-view-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
     <script type='text/javascript' id='wp-util-js-extra'>
         /* <![CDATA[ */
@@ -539,11 +539,11 @@
     </script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=4.6.2' id='wc-add-to-cart-variation-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2' id='flexslider-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.0' id='oceanwp-woo-mini-cart-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.0' id='oceanwp-woo-mini-cart-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.0' id='oceanwp-woocommerce-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.0' id='oceanwp-woocommerce-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.0' id='magnific-popup-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.0' id='oceanwp-lightbox-js'></script>
+    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.0' id='oceanwp-lightbox-js'></script> -->
     <script type='text/javascript' id='oceanwp-main-js-extra'>
         /* <![CDATA[ */
         var oceanwpLocalize = {
@@ -572,8 +572,8 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0' id='oceanwp-main-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js' id='osh-js-scripts-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0' id='oceanwp-main-js'></script>
+    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js' id='osh-js-scripts-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-includes/js/wp-embed.min.js?ver=5.5.5' id='wp-embed-js'></script>
     <!--[if lt IE 9]>
 <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.0' id='html5shiv-js'></script>

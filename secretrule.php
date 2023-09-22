@@ -246,8 +246,8 @@
         /* ]]> */
     </script>
     <!--數字加減-->
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0' id='oceanwp-main-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js' id='osh-js-scripts-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0' id='oceanwp-main-js'></script>
+    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js' id='osh-js-scripts-js'></script> -->
 
 
 </body>

@@ -1,4 +1,4 @@
-<script src="https://ecc.tw/wp-admin/admin-ajax.php?action=mercator-sso-js&#038;host=ada531th.com&#038;back=https%3A%2F%2Fada531th.com%2F%3Fv%3D669b91705b38&#038;site=343&#038;nonce=cbce4047ff"></script>
+<!-- <script src="https://ecc.tw/wp-admin/admin-ajax.php?action=mercator-sso-js&#038;host=ada531th.com&#038;back=https%3A%2F%2Fada531th.com%2F%3Fv%3D669b91705b38&#038;site=343&#038;nonce=cbce4047ff"></script> -->
     <script type="text/javascript">
         /* <![CDATA[ */
         if ('function' === typeof MercatorSSO) {
@@ -41,7 +41,7 @@
         })()
     </script>
     <link rel='stylesheet' id='oew-divider-css' href='https://ada531th.com/wp-content/plugins/ocean-elementor-widgets/assets/css/divider/style.min.css?ver=5.5.5' type='text/css' media='all' />
-    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/wp-ultimo//inc/setup/js/jquery.blockUI.js?ver=1.10.13' id='jquery-blockui-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/wp-ultimo//inc/setup/js/jquery.blockUI.js?ver=1.10.13' id='jquery-blockui-js'></script> -->
     <script type='text/javascript' id='wc-add-to-cart-js-extra'>
         /* <![CDATA[ */
         var wc_add_to_cart_params = {
@@ -88,7 +88,7 @@
         /* ]]> */
     </script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.6.2' id='wc-cart-fragments-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.0' id='oceanwp-woo-quick-view-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.0' id='oceanwp-woo-quick-view-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
     <script type='text/javascript' id='wp-util-js-extra'>
         /* <![CDATA[ */
@@ -112,11 +112,11 @@
     </script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=4.6.2' id='wc-add-to-cart-variation-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2' id='flexslider-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.0' id='oceanwp-woo-mini-cart-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.0' id='oceanwp-woo-mini-cart-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.0' id='oceanwp-woocommerce-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.0' id='oceanwp-woocommerce-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.0' id='magnific-popup-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.0' id='oceanwp-lightbox-js'></script>
+    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.0' id='oceanwp-lightbox-js'></script> -->
     <script type='text/javascript' id='oceanwp-main-js-extra'>
         /* <![CDATA[ */
         var oceanwpLocalize = {
@@ -145,8 +145,8 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0' id='oceanwp-main-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js' id='osh-js-scripts-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0' id='oceanwp-main-js'></script>
+    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js' id='osh-js-scripts-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-includes/js/wp-embed.min.js?ver=5.5.5' id='wp-embed-js'></script>
     <!--[if lt IE 9]>
 <script type='text/javascript' src='https://ada531th.com/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.0' id='html5shiv-js'></script>
@@ -249,7 +249,7 @@
     </script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.1' id='elementor-pro-frontend-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-    <script type='text/javascript' src='https://ada531th.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script> -->
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.2' id='share-link-js'></script>
     <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>

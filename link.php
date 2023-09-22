@@ -4,8 +4,8 @@
 
     <link rel='stylesheet' id='wp-block-library-css' href='https://ada531th.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.5' type='text/css' media='all' />
     <link rel='stylesheet' id='wp-block-library-theme-css' href='https://ada531th.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='wc-block-vendors-style-css' href='https://ada531th.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.4.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='wc-block-style-css' href='https://ada531th.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.4.0' type='text/css' media='all' />
+    <!-- <link rel='stylesheet' id='wc-block-vendors-style-css' href='https://ada531th.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.4.0' type='text/css' media='all' /> -->
+    <!-- <link rel='stylesheet' id='wc-block-style-css' href='https://ada531th.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.4.0' type='text/css' media='all' /> -->
     <link rel='stylesheet' id='wcpa-countdown-style-css' href='https://ada531th.com/wp-content/plugins/product-availability-slots-for-woocommerce3.5/assets/css/frontend/frontend_style.css?ver=3.5' type='text/css' media='all' />
     <style id='wcpa-countdown-style-inline-css' type='text/css'>
         .wcpa_timer {
@@ -34,12 +34,12 @@
     <link rel='stylesheet' id='elementor-animations-css' href='https://ada531th.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.2' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://ada531th.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.2.2' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css' href='https://ada531th.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-598-css' href='https://ada531th.com/wp-content/uploads/sites/343/elementor/css/post-598.css?ver=1620094529' type='text/css' media='all' />
+    <!-- <link rel='stylesheet' id='elementor-post-598-css' href='https://ada531th.com/wp-content/uploads/sites/343/elementor/css/post-598.css?ver=1620094529' type='text/css' media='all' /> -->
     <link rel='stylesheet' id='elementor-pro-css' href='https://ada531th.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.1' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-5-all-css' href='https://ada531th.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.2' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-4-shim-css' href='https://ada531th.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.2.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='https://ada531th.com/wp-content/uploads/sites/343/elementor/css/global.css?ver=1620094529' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-6-css' href='https://ada531th.com/wp-content/uploads/sites/343/elementor/css/post-6.css?ver=1620094529' type='text/css' media='all' />
+    <!-- <link rel='stylesheet' id='elementor-global-css' href='https://ada531th.com/wp-content/uploads/sites/343/elementor/css/global.css?ver=1620094529' type='text/css' media='all' /> -->
+    <!-- <link rel='stylesheet' id='elementor-post-6-css' href='https://ada531th.com/wp-content/uploads/sites/343/elementor/css/post-6.css?ver=1620094529' type='text/css' media='all' /> -->
     <link rel='stylesheet' id='oe-widgets-style-css' href='https://ada531th.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.5.5' type='text/css' media='all' />
     <link rel='stylesheet' id='osh-styles-css' href='https://ada531th.com/wp-content/plugins/ocean-sticky-header/assets/css/style.min.css?ver=5.5.5' type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.5.5'
@@ -64,7 +64,7 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/wp-ultimo/assets/js/wu-visit-counter.min.js?ver=5.5.5' id='wu-visit-counter-js'></script>
+    <!-- <script type='text/javascript' src='https://ada531th.com/wp-content/plugins/wp-ultimo/assets/js/wu-visit-counter.min.js?ver=5.5.5' id='wu-visit-counter-js'></script> -->
     <script type='text/javascript' id='wcpa-frontend-js-extra'>
         /* <![CDATA[ */
         var wcpa_frontend_params = {
